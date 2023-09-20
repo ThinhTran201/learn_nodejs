@@ -1,0 +1,26 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinhTran201/learn_nodejs.git"
+  },
+  "keywords": [
+    "learn",
+    "nodejs"
+  ],
+  "author": "thinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinhTran201/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/ThinhTran201/learn_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
